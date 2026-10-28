@@ -1,0 +1,22 @@
+{
+  "name": "RareScan – Minerales y Metales",
+  "short_name": "RareScan",
+  "description": "Escáner de minerales, tierras raras y detector de metales con sonido",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f766e",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' rx='22' fill='%230f766e'/%3E%3Ctext y='68' x='50' text-anchor='middle' font-size='52'%3E🪨%3C/text%3E%3C/svg%3E",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "utilities"],
+  "lang": "es",
+  "prefer_related_applications": false
+}
